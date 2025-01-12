@@ -10,6 +10,7 @@
 
 - 💻 Pretendo ser uma líder em tecnologia.
 
+
 -  Amo arte em todas suas formas: poemas, pinturas, livros, desenhos, teatro... e também me apaixonei por inovação, durante meu crescimento compreendi a liderança como arte, a arte de influenciar e inspirar pessoas a alcançar objetivos comuns, motivando-as a dar o melhor de si e trabalhando em equipe para superar desafios, sendo assim, também fui encantada pela liderança</h3>
 
 <h3 align="left">Connect with me:</h3>
