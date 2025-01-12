@@ -4,7 +4,7 @@
 
 - 👯 Meu buddy é o Daniel. **Ele cursa Engenharia de Software e foi por meio dele que eu conheci o Inteli.**
 
-- 🤝 Uma curiosidade sobre mim é que **venho diretamente do meu país Minas Gerais e lá fui presidente de um club de Interact e durante minha gestão, conquistei o prêmio de melhor projeto social do Leste de Minas Gerais,**
+- 🤝 Uma curiosidade sobre mim é que **Venho diretamente de Minas Gerais, onde fui presidente de um clube de Interact. Durante minha gestão, conquistei o prêmio de Melhor Projeto Social do Leste de Minas Gerais apoiando mulheres que lutam contra o câncer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
