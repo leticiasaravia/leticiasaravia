@@ -3,9 +3,9 @@
 <h3 align="center">Sou uma estudante do Inteli de Sistemas de Informação, mas me formei na Escola Educação Criativa em Ipatinga, cidade em que eu nasci e cresci.</h3>
 
   
-- 👯 Meu buddy é o Daniel. **Ele cursa Engenharia de Software e foi por meio dele que eu conheci o Inteli.**
+- 👯 Meu buddy é o **Daniel.** Ele cursa Engenharia de Software e **foi por meio dele que eu conheci o Inteli.** O guithub dele é:
 
-- 🤝 Uma curiosidade sobre mim é que **Venho diretamente de Minas Gerais, onde fui presidente de um clube de Interact. Durante minha gestão, conquistei o prêmio de Melhor Projeto Social do Leste de Minas Gerais apoiando mulheres que lutam contra o câncer**.
+-  🤝 Uma curiosidade sobre mim é que **Venho diretamente de Minas Gerais, onde fui presidente de um clube de Interact. Durante minha gestão, conquistei o prêmio de Melhor Projeto Social do Leste de Minas Gerais apoiando mulheres que lutam contra o câncer**.
 
 - 🗣️ Falo inglês fluentemente.
 
